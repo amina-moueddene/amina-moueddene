@@ -17,11 +17,8 @@ I'm a **Software Engineer** passionate about designing and developing **performa
 I have hands-on experience through professional internships and academic projects, working across the **backend, frontend, databases and REST APIs**.
 
 * 🎓 Master's degree in **Information Systems Engineering**
-* 💼 Currently working as a **Software Engineer Intern**
-* 🔭 Working on an **incremental synchronization system (Delta Sync)**
 * 🌱 Continuously improving my **Full-Stack Development** skills
 * 🤝 Interested in **Software Engineering & Full-Stack opportunities**
-* 📍 Based in **Casablanca, Morocco**
 * ⚡ I enjoy solving problems and turning ideas into functional applications
 
 ---
@@ -66,14 +63,6 @@ I have hands-on experience through professional internships and academic project
   <img src="https://img.shields.io/badge/UML-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Merise-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scrum-Agile-2496ED?style=for-the-badge" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/moueddeneamina36/moueddeneamina36/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
