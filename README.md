@@ -6,8 +6,8 @@
   <a href="mailto:moueddeneamina36@gmail.com">
     <img src="https://img.shields.io/badge/Email-moueddeneamina36%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/moueddeneamina36">
-    <img src="https://img.shields.io/badge/GitHub-moueddeneamina36-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/amina-moueddene">
+    <img src="https://img.shields.io/badge/GitHub-amina-moueddene-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
